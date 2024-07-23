@@ -1,0 +1,10 @@
+praw
+pandas
+numpy
+openai
+joblib
+scikit-learn
+matplotlib
+seaborn
+python-dotenv
+nltk
